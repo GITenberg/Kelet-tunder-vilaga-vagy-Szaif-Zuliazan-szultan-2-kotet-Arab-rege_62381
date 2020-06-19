@@ -1,0 +1,34 @@
+_repo: Kelet-tunder-vilaga-vagy-Szaif-Zuliazan-szultan-2-kotet-Arab-rege_62381
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Orbán, Balázs
+    alias: Orban, Balazs
+    birthdate: 1830
+    deathdate: 1890
+    gutenberg_agent_id: '41479'
+    url: http://www.gutenberg.org/2009/agents/41479
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Bal%C3%A1zs_Orb%C3%A1n
+    - https://hu.wikipedia.org/wiki/Orb%C3%A1n_Bal%C3%A1zs_(%C3%ADr%C3%B3)
+creator:
+  author:
+    agent_name: Ali Bey
+    gutenberg_agent_id: '51921'
+    url: http://www.gutenberg.org/2009/agents/51921
+description: ''
+gutenberg_issued: '2020-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62381'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Arab countries'
+- !lcsh 'Fairy tales'
+- !lcc 'PJ'
+- GITenberg
+title: "Kelet tündér világa, vagy Szaif Züliázán szultán. (2. kötet)\r\nAráb rege"
+url: http://www.gutenberg.org/ebooks/62381
