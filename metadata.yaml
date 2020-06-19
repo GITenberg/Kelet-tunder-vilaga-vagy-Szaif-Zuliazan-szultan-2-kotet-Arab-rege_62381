@@ -1,5 +1,5 @@
 _repo: Kelet-tunder-vilaga-vagy-Szaif-Zuliazan-szultan-2-kotet-Arab-rege_62381
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Orbán, Balázs
@@ -11,12 +11,17 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Bal%C3%A1zs_Orb%C3%A1n
     - https://hu.wikipedia.org/wiki/Orb%C3%A1n_Bal%C3%A1zs_(%C3%ADr%C3%B3)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ali Bey
     gutenberg_agent_id: '51921'
     url: http://www.gutenberg.org/2009/agents/51921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62381#Kelet-tunder-vilaga-vagy-Szaif-Zuliazan-szultan-2-kotet-Arab-rege
 gutenberg_issued: '2020-06-12'
 gutenberg_type: Text
 identifiers:
